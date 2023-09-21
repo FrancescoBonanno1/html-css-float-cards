@@ -13,8 +13,8 @@ header p{
 }
 #firstcontainer{
     background-color: brown;
-    height: 300px;
-    width: 700px;
+    height: 100px;
+    width: 1000px;
     margin:auto;
     
 }
@@ -47,7 +47,7 @@ header p{
     content: "";
     clear: both;
     display: table;
-    
-
-    
+}
+.colonna{
+    float: left;
 }
