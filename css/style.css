@@ -11,10 +11,10 @@ header p{
     text-align: center;
 
 }
-#firstcontainer{
+#container{
     background-color: brown;
-    height: 100px;
-    width: 1000px;
+    height: 150px;
+    width: 1050px;
     margin:auto;
     
 }
@@ -37,17 +37,19 @@ header p{
     color: white;
 }
 .tessere a{
-    margin-left: 10px;
+    margin-left: 105px;
+    display: block;
     font-family: 'Courier New', Courier, monospace;
     color: aqua;
 }
 .tessere{
     background-color: rgb(13, 13, 71);
-    width: 350px;
+    width: 325px;
     content: "";
     clear: both;
     display: table;
 }
 .colonna{
     float: left;
+    width: 350px;
 }
