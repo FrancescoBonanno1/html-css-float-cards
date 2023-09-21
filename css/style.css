@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(216, 43, 135);
+    text-align: center;
+}
+header p{
+    text-align: center;
+
+}
+#firstcontainer{
+    background-color: brown;
+    height: 300px;
+    width: 700px;
+    margin:auto;
+    
+}
+.tessere img{
+    width: 100px;
+    float: left;
+
+}
+.tessere h2{
+    padding-top: 16px;
+    margin:0 0 0 110px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    
+}
+.tessere p{
+    padding-top: 5px;
+    margin:0 0 5px 110px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.tessere a{
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+.tessere{
+    background-color: rgb(13, 13, 71);
+    width: 350px;
+    content: "";
+    clear: both;
+    display: table;
+    
+
+    
+}
