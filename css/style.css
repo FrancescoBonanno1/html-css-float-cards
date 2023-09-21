@@ -6,13 +6,15 @@ body{
 h1{
     color: rgb(216, 43, 135);
     text-align: center;
+    font-family: Fredoka;
 }
 header p{
     text-align: center;
+    font-family: Fredoka;
+    margin-bottom:5%
 
 }
 #container{
-    background-color: brown;
     height: 150px;
     width: 1050px;
     margin:auto;
@@ -26,24 +28,27 @@ header p{
 .tessere h2{
     padding-top: 16px;
     margin:0 0 0 110px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Fredoka;
     color: white;
     
 }
 .tessere p{
     padding-top: 5px;
     margin:0 0 5px 110px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Fredoka;
     color: white;
+
+
 }
 .tessere a{
     margin-left: 105px;
     display: block;
-    font-family: 'Courier New', Courier, monospace;
-    color: aqua;
+    font-family: Fredoka;
+    color: rgb(0, 183, 255);
+    text-decoration: none;
 }
 .tessere{
-    background-color: rgb(13, 13, 71);
+    background-color: rgb(2, 2, 29);
     width: 325px;
     content: "";
     clear: both;
